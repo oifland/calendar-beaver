@@ -17,9 +17,9 @@ These need to be installed and available in your path
 Getting Started
 ---------------
 
-# Edit the grid.svg and top.svg files to your liking. Leave the day numbers and structure the same, but feel free to adjust fonts and such.
-# Edit the list of holidays in holiday_finder.rb
-# Run "ruby generator.rb" to produce your upper and lower folders with SVG files and sample backgrounds
-# Edit the generated SVG files, replacing background files and perhaps adjusting text (don't forget the cover and the back)
-# Combine all your work into a single PDF by running "ruby bind.rb"
-# Your file is output to calendar.pdf
+1. Edit the grid.svg and top.svg files to your liking. Leave the day numbers and structure the same, but feel free to adjust fonts and such.
+2. Edit the list of holidays in holiday_finder.rb
+3.  Run "ruby generator.rb" to produce your upper and lower folders with SVG files and sample backgrounds
+4. Edit the generated SVG files, replacing background files and perhaps adjusting text (don't forget the cover and the back)
+5. Combine all your work into a single PDF by running "ruby bind.rb"
+6. Your file is output to calendar.pdf
